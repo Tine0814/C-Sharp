@@ -1,0 +1,17 @@
+F:\C#\ConverstionAgeToDays\ConverstionAgeToDays\bin\Debug\net6.0-windows\ConverstionAgeToDays.exe
+F:\C#\ConverstionAgeToDays\ConverstionAgeToDays\bin\Debug\net6.0-windows\ConverstionAgeToDays.deps.json
+F:\C#\ConverstionAgeToDays\ConverstionAgeToDays\bin\Debug\net6.0-windows\ConverstionAgeToDays.runtimeconfig.json
+F:\C#\ConverstionAgeToDays\ConverstionAgeToDays\bin\Debug\net6.0-windows\ConverstionAgeToDays.dll
+F:\C#\ConverstionAgeToDays\ConverstionAgeToDays\bin\Debug\net6.0-windows\ConverstionAgeToDays.pdb
+F:\C#\ConverstionAgeToDays\ConverstionAgeToDays\obj\Debug\net6.0-windows\ConverstionAgeToDays.csproj.AssemblyReference.cache
+F:\C#\ConverstionAgeToDays\ConverstionAgeToDays\obj\Debug\net6.0-windows\ConverstionAgeToDays.Form1.resources
+F:\C#\ConverstionAgeToDays\ConverstionAgeToDays\obj\Debug\net6.0-windows\ConverstionAgeToDays.csproj.GenerateResource.cache
+F:\C#\ConverstionAgeToDays\ConverstionAgeToDays\obj\Debug\net6.0-windows\ConverstionAgeToDays.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\ConverstionAgeToDays\ConverstionAgeToDays\obj\Debug\net6.0-windows\ConverstionAgeToDays.AssemblyInfoInputs.cache
+F:\C#\ConverstionAgeToDays\ConverstionAgeToDays\obj\Debug\net6.0-windows\ConverstionAgeToDays.AssemblyInfo.cs
+F:\C#\ConverstionAgeToDays\ConverstionAgeToDays\obj\Debug\net6.0-windows\ConverstionAgeToDays.csproj.CoreCompileInputs.cache
+F:\C#\ConverstionAgeToDays\ConverstionAgeToDays\obj\Debug\net6.0-windows\ConverstionAgeToDays.dll
+F:\C#\ConverstionAgeToDays\ConverstionAgeToDays\obj\Debug\net6.0-windows\refint\ConverstionAgeToDays.dll
+F:\C#\ConverstionAgeToDays\ConverstionAgeToDays\obj\Debug\net6.0-windows\ConverstionAgeToDays.pdb
+F:\C#\ConverstionAgeToDays\ConverstionAgeToDays\obj\Debug\net6.0-windows\ConverstionAgeToDays.genruntimeconfig.cache
+F:\C#\ConverstionAgeToDays\ConverstionAgeToDays\obj\Debug\net6.0-windows\ref\ConverstionAgeToDays.dll
